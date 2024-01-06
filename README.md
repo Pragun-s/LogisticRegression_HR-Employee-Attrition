@@ -4,4 +4,4 @@
 
 -> Utilized NumPy, Pandas, seaborn, etc.
 
--> Utilized modules like train_test_split, make_pipeline, mean_absolute_error.
+-> Utilized modules like OneHotEncoder, train_test_split, make_pipeline, mean_absolute_error.
